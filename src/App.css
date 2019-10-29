@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#app {
+  padding: 20px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.todo-list {
+  margin: 10px 0px;
+}
+
+.todo-item {
+  margin-bottom: 10px;
+}
+
+.todo-done {
+  color:rgb(0, 148, 74);
+}
+
+.text-box {
+  width: 100%;
+  padding: 5px;
+  margin: 5px 0px;
+}
+
+.btn {
+  margin: 10px 0px;
+  border: none;
+  background:dodgerblue;
+  color: #fff;
+  padding: 7px 20px;
+  cursor: pointer;
+}
+
